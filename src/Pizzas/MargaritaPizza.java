@@ -8,6 +8,6 @@ public class MargaritaPizza implements IPizza {
 
     @Override
     public double getCost() {
-        return 90.0;
+        return 20.0;
     }
 }
