@@ -386,7 +386,7 @@
 											"top": 437,
 											"width": 189.27734375,
 											"height": 10,
-											"text": "+pizza: IPizza",
+											"text": "#pizza: IPizza",
 											"horizontalAlignment": 0
 										}
 									],
@@ -3266,6 +3266,7 @@
 								"$ref": "AAAAAAGIYqO45JXgdbk="
 							},
 							"name": "pizza",
+							"visibility": "protected",
 							"type": {
 								"$ref": "AAAAAAGIYqLZfZWJadI="
 							}
@@ -3286,7 +3287,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGIYrARsrOH6l4="
 									},
-									"name": "IPizza pizza"
+									"name": "IPizza pizza",
+									"type": ""
 								}
 							]
 						}
@@ -3329,7 +3331,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGIY3fZmCGsxIc="
 									},
-									"name": "IPizza pizza"
+									"name": "IPizza pizza",
+									"type": ""
 								}
 							]
 						},
@@ -3388,7 +3391,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGIY3d8DCFSsU0="
 									},
-									"name": "IPizza pizza"
+									"name": "IPizza pizza",
+									"type": ""
 								}
 							]
 						},
@@ -3447,7 +3451,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGIY3hAdiIPZ8U="
 									},
-									"name": "IPizza pizza"
+									"name": "IPizza pizza",
+									"type": ""
 								}
 							]
 						},
@@ -3506,7 +3511,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGIY3iCrCJsaaU="
 									},
-									"name": "IPizza pizza"
+									"name": "IPizza pizza",
+									"type": ""
 								}
 							]
 						},
@@ -3565,7 +3571,8 @@
 									"_parent": {
 										"$ref": "AAAAAAGIY3kKYCL/g1I="
 									},
-									"name": "IPizza pizza"
+									"name": "IPizza pizza",
+									"type": ""
 								}
 							]
 						},
