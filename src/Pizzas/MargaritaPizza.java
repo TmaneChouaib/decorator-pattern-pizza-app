@@ -1,0 +1,13 @@
+package Pizzas;
+
+public class MargaritaPizza implements IPizza {
+    @Override
+    public String getDescription() {
+        return "Margarita pizza";
+    }
+
+    @Override
+    public double getCost() {
+        return 90.0;
+    }
+}
