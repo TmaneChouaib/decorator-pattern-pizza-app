@@ -1,4 +1,4 @@
-package Pizzas;
+package pizzas;
 
 public interface IPizza {
     String getDescription();

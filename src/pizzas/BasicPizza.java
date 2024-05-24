@@ -1,4 +1,4 @@
-package Pizzas;
+package pizzas;
 
 public class BasicPizza implements IPizza {
     @Override

@@ -1,6 +1,6 @@
 package decorators;
 
-import Pizzas.IPizza;
+import pizzas.IPizza;
 
 public class OnionDecorator extends PizzaDecorator {
     public OnionDecorator(IPizza pizza) {

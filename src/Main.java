@@ -1,6 +1,6 @@
-import Pizzas.BasicPizza;
-import Pizzas.IPizza;
-import Pizzas.MargaritaPizza;
+import pizzas.BasicPizza;
+import pizzas.IPizza;
+import pizzas.MargaritaPizza;
 import decorators.BellPepperDecorator;
 import decorators.CheeseDecorator;
 import decorators.MushroomDecorator;
